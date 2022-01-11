@@ -1,10 +1,12 @@
-#UART SYSTEM
+# UART SYSTEM
 
 ## Project Description
   - tb-> baud_controller
   - tb2-> transmitter
   - tb3->receiver
   - tb4->system
+
+## Configuration
 
 clock -> 50	MHz 
 
